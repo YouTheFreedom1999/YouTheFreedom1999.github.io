@@ -17,4 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
-![pthoto test](../docs/upload/1.jpg) 
+![pthoto test](./upload/1.jpg) 
