@@ -11,6 +11,8 @@ use_directory_urls: false
 
 markdown_extensions:
     - admonition
+    - pymdownx.highlight:
+      anchor_linenums: true
     - codehilite:
         guess_lang: false
         linenums: false
@@ -26,6 +28,7 @@ markdown_extensions:
     - pymdownx.critic
     - pymdownx.details
     - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:pymdownx.emoji.to_png
     - pymdownx.inlinehilite
     - pymdownx.magiclink

@@ -25,6 +25,18 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 发现一个 bug，请尽快修复！
 
 
+??? note "这是 note 类型的提示框"
+提示：更多精彩内容记得关注我啊
+
+    第二行
+
+    第三行
+
+    第四行
+
+    第五行
+    ...
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
